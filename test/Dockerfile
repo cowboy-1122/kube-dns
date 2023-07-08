@@ -1,2 +1,2 @@
-FROM docker.io/calico/cni:v3.23.1
+FROM docker.io/calico/kube-controllers:v3.23.1
 MAINTAINER Q
